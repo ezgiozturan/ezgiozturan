@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ezgi Ozturan</h1>
 <h3 align="center">A passionate full stack developer candidate from Turkey</h3>
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,Matlab**
+- 🌱 I’m currently learning **HTML,CSS,JavaScript**
 
 - 📫 How to reach me **ezgiozturan05@gmail.com**
 
